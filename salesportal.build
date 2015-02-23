@@ -1,4 +1,4 @@
-; Sales Portal make file
+; Sales Portal build file
 core = 8.x
 api = 2
 
