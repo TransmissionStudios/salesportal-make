@@ -5,6 +5,7 @@ api = 2
 ; Core
 projects[drupal][version] = "8.0.0-beta6"
 
+; Profile
 projects[salesportal][type] = "profile"
 projects[salesportal][download][type] = "git"
 projects[salesportal][download][url] = "git@github.com:TransmissionStudios/salesportal-profile.git"
